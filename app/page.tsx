@@ -258,19 +258,7 @@ export default function ComingSoonHero() {
               <div className="absolute inset-0 bg-gradient-to-tr from-[#0a1525]/90 via-[#0a1525]/70 to-transparent mix-blend-multiply">
                 <div className="absolute inset-0 bg-[#0a1525]/30 backdrop-filter backdrop-brightness-75"></div>
 
-                {/* Enhanced professional badge */}
-                <div className="absolute top-6 right-6 bg-white/10 backdrop-blur-xl rounded-full px-4 py-2 shadow-glow text-sm font-medium text-white border border-white/20 transition-all duration-300 hover:bg-white/20 hover:scale-105">
-                  <div className="flex items-center">
-                    <svg
-                      className="h-5 w-5 mr-2 text-[#f0cb76]"
-                      viewBox="0 0 24 24"
-                      fill="currentColor"
-                    >
-                      <path d="M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2z M10.94,15.54L7.4,12l1.41-1.41l2.12,2.12 l4.24-4.24l1.41,1.41L10.94,15.54z" />
-                    </svg>
-                    Licensed by the Law Society of Ontario
-                  </div>
-                </div>
+              
               </div>
             </div>
           </div>
